@@ -1,0 +1,41 @@
+{
+  "allVideos": [
+    {
+      "id": "58b8",
+      "caption": "kGF",
+      "imgURL": "https://myimg.click/images/2021/01/09/KGF-Chapter.1-Poster-HDHub4u.uno.jpg",
+      "youtubeURL": "http://www.youtube.com/embed/GpMoLL_80Jk"
+    },
+    {
+      "id": "6d50",
+      "caption": "My Fault",
+      "imgURL": "https://th.bing.com/th/id/OIP.QQPj_FqkXsLvMJC3Wvx5DwHaLH?rs=1&pid=ImgDetMain",
+      "youtubeURL": "http://www.youtube.com/embed/xF1BLTOp-fs"
+    }
+  ],
+  "history": [
+    {
+      "id": "dd18",
+      "caption": "varshagalkku sesham",
+      "youtubeURL": "https://www.youtube.com/embed/08tGPsHidew",
+      "timeStamp": "4/30/2024, 10:24:39 AM GMT+5:30"
+    }
+  ],
+  "allCategory": [
+    {
+      "id": "d8d7",
+      "categoryName": "movies",
+      "allVideos": []
+    },
+    {
+      "id": "2696",
+      "categoryName": "trailers",
+      "allVideos": []
+    },
+    {
+      "id": "e970",
+      "categoryName": "songs",
+      "allVideos": []
+    }
+  ]
+}
